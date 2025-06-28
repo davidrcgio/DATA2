@@ -8,5 +8,8 @@
 <body>
     <h4>HELLO WORLD</h4>
     <p>MENAMBAHKAN PARAGRAPH</p>
+    <ul>UNORDER LIST</ul>
+    <li>1</li>
+    <li>2</li>
 </body>
 </html>
